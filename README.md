@@ -1,2 +1,2 @@
-# engine-design-tool
-Simple tool to calculate basic formula related to automotive engineering.
+# Engine Design Tool
+Simple tool to calculate basic formulas related to automotive engineering.
